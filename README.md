@@ -1,4 +1,4 @@
-## Computer Science Student - Full-Stack Developer
+## Computer Science Student
 Universidade Federal Do Ceará - Campus Quixadá
 
 ### Main skills:
@@ -12,9 +12,9 @@ Universidade Federal Do Ceará - Campus Quixadá
 ### Tools:
 ![VisualCode](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -22,7 +22,7 @@ Universidade Federal Do Ceará - Campus Quixadá
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=openjdk&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-Mongodb-0D1117?style=for-the-badge&logo=Mongodb&labelColor=0D1117)&nbsp;
+![Postgres](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Spring](https://img.shields.io/badge/-Spring.JS-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Vue](https://img.shields.io/badge/-vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Julia](https://img.shields.io/badge/-Julia-0D1117?style=for-the-badge&logo=julia&labelColor=0D1117)&nbsp;
