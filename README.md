@@ -23,7 +23,7 @@ Universidade Federal Do Ceará - Campus Quixadá
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.clinicarennovi.com.br/" target="_blank">
+      <a href="https://dopamina-one.vercel.app/" target="_blank">
         <img src="https://github.com/user-attachments/assets/b3a1f2b3-fb45-4036-8537-3c0901bce7d1" width="250px"><br>
         <b>😊 Dopamina</b>
       </a>
